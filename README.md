@@ -1,4 +1,4 @@
-# MPTInvesting
+# MPTInvesting (EXCEL)
 Investing capital in a portfolio consisting of securities listed on the Tokyo Stock Exchange (TSE) using Nikkei 225 Index as a benchmark, and conducting analysis around the philosophy of Harry Markowitz's mean-variance theory. We also look at what effects stocks from the global markets such as the Ho Chi Minh Stock Exchange (HOSE) have on our porfolio. 
 
 Please view the specification.
